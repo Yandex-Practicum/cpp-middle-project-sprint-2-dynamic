@@ -7,8 +7,8 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Launch CryptoGuard",
-            "program": "${workspaceFolder}/build/CryptoGuard",
+            "name": "Launch DymanicScan",
+            "program": "${workspaceFolder}/build/DymanicScan",
             "args": [
                 "-i",
                 "input.txt",
